@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Harsh</h1>
-<h3 align="center">I'm interested in Computer Vision </h3>
+<h3 align="center">I'm interested in Full Stack Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkatkar321&label=Profile%20views&color=0e75b6&style=flat" alt="harshkatkar321" /> </p>
 
-- 🌱 I’m currently learning **Object Detection**
+- 🌱 I’m currently learning **DOT NET **
 
 
 <h3 align="left">Connect with me:</h3>
